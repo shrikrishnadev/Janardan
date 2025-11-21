@@ -1,15 +1,9 @@
 h1 {
-font-weight:650;
-font-size:33px;
-}
-
-h2, h3, h4, h5, h6 { 
   font-size:20px;
-  font-weight:650;
+  font-weight:554;
 }
-
-p1, p2, p3, p4, p5, p6 {
-  font-size:15px;
-font-weight:401;
-  
+p {
+  font-size:16px;
+  font-weight:501;
+  color:#3700FF;
 }
