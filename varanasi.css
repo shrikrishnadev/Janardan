@@ -2,7 +2,7 @@
 
 body {font-family:"Noto Serif",serif;}
 
-h1 {font-size:78px;
+h1 {font-size:90px;
 font-weight:730;
 margin-left:32px;
 margin-bottom:25px;
@@ -15,14 +15,14 @@ h2 {font-size:30px;
 
 h3 {font-size:30px;
 font-weight:640;
-margin-top:55px;
+margin-top:80px;
 margin-bottom:-9px;}
 
 p {font-size:17px;
 font-weight:430;
 line-height:1.4;
 color:#000000;
-margin-bottom:45px;}
+margin-bottom:100px;}
 
 b {
   font-weight:730;
