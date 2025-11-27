@@ -2,24 +2,24 @@
 
 body {font-family:"Noto Serif",serif;}
 
-h1 {font-size:33px;
+h1 {font-size:53px;
 font-weight:730;
 margin-left:32px;
 margin-bottom:25px;
 margin-top:19px;}
 
-h2 {font-size:21px;
+h2 {font-size:30px;
   font-weight:630;
   margin-bottom:-9px;
 }
 
-h3 {font-size:20px;
+h3 {font-size:30px;
 font-weight:640;
 margin-top:55px;
 margin-bottom:-9px;}
 
 p {font-size:17px;
-font-weight:520;
+font-weight:450;
 line-height:1.4;
 color:#000000;
 margin-bottom:45px;}
